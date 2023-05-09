@@ -19,11 +19,11 @@ This collection shows my solutions to various challenges provided by Frontend Me
 
 
 ### Three column preview card
-![Three Column preview card](linktophoto)
+![Three Column preview card](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/ap7h50kkrdq7zclbokox.jpg)
 
 <div align="center">
 
-[Live](liveLink) | [Solution](solutionlink) | [Challenge](linktochallenge)
+[Live](https://muhammedsajadali.github.io/3-Column-preview-card-Frontend-Mentor-challenge/) | [Solution](https://www.frontendmentor.io/solutions/flexbox-with-vanilla-css-877ur3oIrE) | [Challenge](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
 
 </div>
 

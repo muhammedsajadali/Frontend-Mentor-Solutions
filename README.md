@@ -9,11 +9,11 @@ This collection shows my solutions to various challenges provided by Frontend Me
 
 
 ### Interactive rating
-![Interactive rating](linktophoto)
+![Interactive rating](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI/hub)
 
 <div align="center">
 
-[Live](liveLink) | [Solution](solutionlink) | [Challenge](linktochallenge)
+[Live](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI/hub) | [Solution](https://www.frontendmentor.io/solutions/flexbox-interactive-rating-component-fOdRd4_nLz) | [Challenge](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
 
 </div>
 

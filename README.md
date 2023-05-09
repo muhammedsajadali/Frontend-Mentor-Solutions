@@ -9,11 +9,11 @@ This collection shows my solutions to various challenges provided by Frontend Me
 
 
 ### Interactive rating
-![Interactive rating](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI/hub)
+![Interactive rating](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/hxx2bhmtmeelt0a98zos.jpg)
 
 <div align="center">
 
-[Live](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI/hub) | [Solution](https://www.frontendmentor.io/solutions/flexbox-interactive-rating-component-fOdRd4_nLz) | [Challenge](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
+[Live](https://muhammedsajadali.github.io/Interactive-rating-component-Frontend-Mentor-challenge/) | [Solution](https://github.com/muhammedsajadali/Interactive-rating-component-Frontend-Mentor-challenge) | [Challenge](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
 
 </div>
 

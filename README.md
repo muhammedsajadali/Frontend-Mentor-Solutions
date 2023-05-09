@@ -23,7 +23,7 @@ This collection shows my solutions to various challenges provided by Frontend Me
 
 <div align="center">
 
-[Live](https://muhammedsajadali.github.io/3-Column-preview-card-Frontend-Mentor-challenge/) | [Solution](https://www.frontendmentor.io/solutions/flexbox-with-vanilla-css-877ur3oIrE) | [Challenge](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
+[Live](https://muhammedsajadali.github.io/3-Column-preview-card-Frontend-Mentor-challenge/) | [Solution](https://github.com/muhammedsajadali/3-Column-preview-card-Frontend-Mentor-challenge) | [Challenge](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
 
 </div>
 

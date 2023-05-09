@@ -29,21 +29,21 @@ This collection shows my solutions to various challenges provided by Frontend Me
 
 
 ### NFT preview card
-![NFT preview card](linktophoto)
+![NFT preview card]()
 
 <div align="center">
 
-[Live](liveLink) | [Solution](solutionlink) | [Challenge](linktochallenge)
+[Live]() | [Solution]() | [Challenge]()
 
 </div>
 
 
 ### Order summary
-![Order summary](linktophoto)
+![Order summary]()
 
 <div align="center">
 
-[Live](liveLink) | [Solution](solutionlink) | [Challenge](linktochallenge)
+[Live](https://muhammedsajadali.github.io/Order-summary-Frontend-Mentor-challenge/) | [Solution](https://github.com/muhammedsajadali/Order-summary-Frontend-Mentor-challenge) | [Challenge]()
 
 </div>
 
